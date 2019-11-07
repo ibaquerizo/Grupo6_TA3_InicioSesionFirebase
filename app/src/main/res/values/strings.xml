@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grupo6_TA3_InicioSesionFirebase</string>
+    <string name="id">ID</string>
+    <string name="correo">Correo</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+</resources>
