@@ -3,5 +3,6 @@
     <string name="id">ID</string>
     <string name="correo">Correo</string>
     <string name="nombre_de_usuario">Nombre de Usuario</string>
-    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="numero_de_telefono">Cerrar Sesión</string>
 </resources>
